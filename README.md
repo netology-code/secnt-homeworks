@@ -10,7 +10,7 @@
 
 5.1. []()
 
-5.2. []()
+5.2. [](https://github.com/netology-code/secnt-homeworks/blob/main/5-02.md)
 
 5.3. []()
 
